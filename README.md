@@ -69,7 +69,3 @@ A 19Y/O undergrad from India. I'm passionate about Front-end Web Development.:ba
 </div>
 
 
-
-
-
-{"mode":"full","isActive":false}
