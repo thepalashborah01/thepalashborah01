@@ -50,7 +50,7 @@ A 19Y/O undergrad from India. I'm passionate about Front-end Web Development.:ba
 
 <img  src="https://github-readme-stats.vercel.app/api?username=thepalashborah01&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=thepalashborah&theme=dark" width="45%" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=thepalashborah01&theme=dark" width="45%" >
 
 <br>
 
