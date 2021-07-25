@@ -61,6 +61,11 @@ A 19Y/O undergrad from India. I'm passionate about Front-end Web Development.:ba
 
 <a href="https://twitter.com/thepalashborah" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="80px" width="80px" alt="Twitter" align="center"></a>
 <a href="https://www.linkedin.com/in/thepalashborah/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px" alt="Twitter" align="center"></a>
+<a href="https://www.instagram.com/thepalashborah/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_3-instagram-1024.png" height="80px" width="80px" alt="Instagram" align="center"></a>
+  
+<!--   https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_3-instagram-1024.png -->
+
+<!--   https://www.iconfinder.com/icons/3529653/camera_instagram_media_network_photo_social_icon -->
 <!-- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/thepalashborah)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/thepalashborah)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://thepalashborah01.github.io/Responsive-portfolio-website.github.io/) -->
