@@ -4,7 +4,7 @@
 
 <h3 align="center">I love Mathematics and Computer Science ❤</h3>
   
-A 19Y/O undergrad from India. I'm passionate about Front-end Web Development.:bar_chart:. I like solving real life problems, competitve programming and improving efficiency and performance. Strong advocate towards Graphic Designing, Photography and Fitness
+A 19Y/O undergrad from India. I'm passionate about Front-end Web Development.:bar_chart: and competitive programming. I like solving real life problems, competitve programming and improving efficiency and performance. Strong advocate towards Graphic Designing, Photography and Fitness
 
 
 ![age](https://img.shields.io/badge/age-19-blue)
