@@ -41,6 +41,7 @@ A 19 Y/O undergrad from India. I'm passionate about Front-end Web Development.:b
 <img src="https://github.com/thepalashborah01/thepalashborah01/blob/main/git.png?raw=true" height="60" width="60">
 <img src="https://github.com/thepalashborah01/thepalashborah01/blob/main/vs.png?raw=true" height="60" width="60">
 <img src="https://github.com/thepalashborah01/thepalashborah01/blob/main/bootstrap.png?raw=true" height="60" width="60">
+<img src="https://github.com/thepalashborah01/thepalashborah01/blob/main/C.png?raw=true" height="60" width="60">
 
 </div>
 
