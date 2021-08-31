@@ -16,7 +16,7 @@ A 19 Y/O undergrad from India. I'm passionate about Front-end Web Development.:b
 
 - 🎓 Assam Engineering College, Guwahati
 - 🌱 I’m currently learning Python and advanced DSA in C++
-- 👯 I’m looking to collaborate on Python projects and Basic Web Dev stuff
+- 👯 I’m looking to collaborate on Python projects and Basic Web Development stuff
 - 📫 How to reach me: [Instagram](https://www.instagram.com/thepalashborah) | [Linkedin](https://www.linkedin.com/in/thepalashborah/) | [Website](https://thepalashborah01.github.io/Responsive-portfolio-website.github.io/)
 - 💫 CodeChef Profile : [thepalashborah](https://www.codechef.com/users/thepalashborah)
 - 😄 Pronouns: he/him/his
